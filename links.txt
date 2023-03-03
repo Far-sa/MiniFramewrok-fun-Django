@@ -1,0 +1,7 @@
+Werkzeug
+WebOb
+
+create env
+
+pip install unicorn
+pip install webob
